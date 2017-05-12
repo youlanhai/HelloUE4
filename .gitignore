@@ -27,3 +27,11 @@
 *.exe
 *.out
 *.app
+
+\.vs/
+*.opendb
+*.VC.db
+
+Intermediate/
+Saved/
+Binaries/
