@@ -4,7 +4,7 @@
 #include "MyActor.generated.h"
 
 UCLASS()
-class TESTUE4_API AMyActor : public AActor
+class HELLOUE4_API AMyActor : public AActor
 {
 	GENERATED_BODY()
 public:	
